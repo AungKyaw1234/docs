@@ -1,6 +1,6 @@
 ---
 title: Transcript - "Codespaces - Your instant dev box in the cloud"
-intro: Audio and visual transcript.
+intro: Audio and vitranscript.
 shortTitle: Codespaces
 allowTitleToDifferFromFilename: true
 product_video: 'https://www.youtube-nocookie.com/embed/_W9B7qc9lVc'
